@@ -163,6 +163,7 @@ app/src/main/java/com/peerlink/app/
 ├── docs/screenshots/    # README 真机截图
 ├── gradle/wrapper/      # Gradle Wrapper
 ├── README.md
+├── LICENSE
 ├── .gitignore
 └── gradle.properties
 ```
@@ -170,3 +171,12 @@ app/src/main/java/com/peerlink/app/
 截图对照说明见 [`docs/screenshots/README.md`](docs/screenshots/README.md)。
 
 ---
+
+## 许可证
+
+本项目采用 [PolyForm Noncommercial License 1.0.0](LICENSE)。
+
+- **允许**：个人学习、研究、爱好项目等非商业用途  
+- **不允许**：商业使用（含售卖、打包进商业产品等）  
+
+如需商业授权，请联系版权方另行协商。
