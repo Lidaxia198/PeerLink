@@ -170,7 +170,3 @@ app/src/main/java/com/peerlink/app/
 截图对照说明见 [`docs/screenshots/README.md`](docs/screenshots/README.md)。
 
 ---
-
-## 许可证
-
-上传公开仓库前请自行添加 `LICENSE`（如 MIT / Apache-2.0）。未添加时默认版权归作者所有。
