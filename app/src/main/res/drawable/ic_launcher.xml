@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Steel-blue plate -->
+    <path
+        android:fillColor="#1B2A41"
+        android:pathData="M0,0h48v48h-48z" />
+    <!-- Soft disc -->
+    <path
+        android:fillColor="#E8EEF6"
+        android:pathData="M24,8c8.8,0 16,7.2 16,16s-7.2,16 -16,16 -16,-7.2 -16,-16 7.2,-16 16,-16z" />
+    <!-- Two linked nodes -->
+    <path
+        android:fillColor="#3B6FD9"
+        android:pathData="M18,24m-5.2,0a5.2,5.2 0,1 1,10.4 0a5.2,5.2 0,1 1,-10.4 0" />
+    <path
+        android:fillColor="#1B2A41"
+        android:pathData="M30,24m-5.2,0a5.2,5.2 0,1 1,10.4 0a5.2,5.2 0,1 1,-10.4 0" />
+    <path
+        android:fillColor="#3B6FD9"
+        android:pathData="M21.2,22.4h5.6v3.2h-5.6z" />
+</vector>

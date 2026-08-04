@@ -1,0 +1,80 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.so
+
+# Generated / intermediate
+bin/
+gen/
+out/
+release/
+captures/
+
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local machine config (SDK path, etc.)
+local.properties
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+.navigation/
+*.ipr
+*.iws
+
+# Native / NDK
+.externalNativeBuild/
+.cxx/
+obj/
+
+# Kotlin incremental / session cache
+.kotlin/
+
+# Signing & secrets — never commit
+*.jks
+*.keystore
+*.pem
+*.p12
+keystore.properties
+secrets.properties
+*.key
+.env
+.env.*
+!.env.example
+
+# OS junk
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs & dumps
+*.log
+hs_err_pid*
+replay_pid*
+*.hprof
+
+# Test / coverage
+*.ec
+coverage/
+.jacoco/
+
+# Misc editors
+*.swp
+*.swo
+*~
+.vscode/
+!.vscode/extensions.json
+
+# Optional local scratch (keep docs/screenshots tracked)
+*.tmp
+*.bak

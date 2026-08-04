@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PeerLink</string>
+    <string name="cast_notification_title">PeerLink 投屏中</string>
+    <string name="cast_notification_text">画面共享进行中</string>
+    <string name="channel_cast">投屏服务</string>
+    <string name="link_notification_title">PeerLink 已连接</string>
+    <string name="link_notification_text">保持连接，投屏更稳定</string>
+    <string name="channel_link">连接保活</string>
+    <string name="accessibility_service_description">用于帮拍：在对方点「帮拍/帮录」时，代你按下系统相机的快门键。不会截屏，也不会替相机存文件。</string>
+</resources>

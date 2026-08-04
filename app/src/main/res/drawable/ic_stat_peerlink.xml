@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Status-bar / notification icons must be white + alpha only. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Left node -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M7.5,12m-3.2,0a3.2,3.2 0,1 1,6.4 0a3.2,3.2 0,1 1,-6.4 0" />
+    <!-- Right node -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M16.5,12m-3.2,0a3.2,3.2 0,1 1,6.4 0a3.2,3.2 0,1 1,-6.4 0" />
+    <!-- Link bar -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M9.4,10.7h5.2v2.6h-5.2z" />
+</vector>
