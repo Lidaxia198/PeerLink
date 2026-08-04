@@ -179,4 +179,4 @@ app/src/main/java/com/peerlink/app/
 - **允许**：个人学习、研究、爱好项目等非商业用途  
 - **不允许**：商业使用（含售卖、打包进商业产品等）  
 
-如需商业授权，请联系版权方另行协商。
+Copyright (c) 2026 [Lidaxia198](https://github.com/Lidaxia198)
